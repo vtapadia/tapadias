@@ -10,8 +10,8 @@
         <version>1.2.3.RELEASE</version>
     </parent>
 
-    <groupId>com.envy.personal</groupId>
-    <artifactId>tapadias</artifactId>
+    <groupId>com.tapadias</groupId>
+    <artifactId>tapadias-site</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>

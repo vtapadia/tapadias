@@ -1,7 +1,7 @@
-package com.envy.personal.tapadias.domain;
+package com.tapadias.domain;
 
-import com.envy.personal.tapadias.config.LocalDateConverter;
-import com.envy.personal.tapadias.config.LocalDateTimeConverter;
+import com.tapadias.config.LocalDateConverter;
+import com.tapadias.config.LocalDateTimeConverter;
 
 import javax.persistence.*;
 import java.time.LocalDate;

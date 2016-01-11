@@ -1,4 +1,4 @@
-package com.envy.personal.tapadias;
+package com.tapadias;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;

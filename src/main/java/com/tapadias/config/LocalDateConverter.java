@@ -1,4 +1,4 @@
-package com.envy.personal.tapadias.config;
+package com.tapadias.config;
 
 import javax.persistence.AttributeConverter;
 import javax.persistence.Converter;

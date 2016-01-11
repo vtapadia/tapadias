@@ -1,4 +1,4 @@
-package com.envy.personal.tapadias.domain;
+package com.tapadias.domain;
 
 public enum Gender {
     Male,

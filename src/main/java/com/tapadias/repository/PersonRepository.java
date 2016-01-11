@@ -1,6 +1,6 @@
-package com.envy.personal.tapadias.repository;
+package com.tapadias.repository;
 
-import com.envy.personal.tapadias.domain.Person;
+import com.tapadias.domain.Person;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
